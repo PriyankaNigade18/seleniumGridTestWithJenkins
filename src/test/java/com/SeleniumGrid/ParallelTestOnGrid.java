@@ -14,7 +14,8 @@ import org.testng.annotations.Test;
 
 public class ParallelTestOnGrid 
 {
-	WebDriver driver;
+	//test
+ WebDriver driver;
  @Parameters({"bname"})
   @Test
   public void testParallel(String bname) throws MalformedURLException, InterruptedException
