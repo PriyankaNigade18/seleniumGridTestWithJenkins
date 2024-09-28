@@ -68,7 +68,7 @@
 					<version>3.5.0</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>swaglab.xml</suiteXmlFile>
+							<suiteXmlFile>grid.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
